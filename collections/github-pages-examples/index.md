@@ -1,19 +1,19 @@
 ---
-items:
- - twbs/bootstrap
+položky:
+ -                      větvičky/bootstrap                    
  - jekyll/jekyll
- - github/government.github.com
- - electron/electronjs.org-old
- - square/square.github.io
- - twitter/opensource-website
+ - github/vláda.github.com
+ - elektron/electronjs.org-old
+ -                      náměstí/square.github.io                    
+ - twitter/opensource-web
  - Netflix/netflix.github.com
- - Yelp/yelp.github.io
- - facebook/react
+ - Jelínek/yelp.github.io
+ -                     facebook/reagovat                   
  - artsy/artsy.github.io
- - Metroxe/one-html-page-challenge
- - fairfield-programming/fairfield-programming.github.io
-display_name: GitHub Pages examples
+ -                     Metroxe/one-html-stránka-výzva                   
+ - fairfield-programování/fairfield-programování.github.io
+display_název: GitHub Pages příklady
 created_by: jdennes
-image: github-pages-examples.png
+obraz: github-stránky-examples.png
 ---
-Fine examples of projects using GitHub Pages (https://pages.github.com).
+Fajné příklady projektů s využitím GitHub Pages (https://pages.github.com).
